@@ -1,0 +1,5 @@
+/* apllique bordex-box model à tous les blocks */
+
+* {
+  box-sizing: border-box;
+}
